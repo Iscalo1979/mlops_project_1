@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "white-byway-467013-f8",
+  "private_key_id": "54567e519e24375e1db67c04f3a5b1964606ff78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7pw78ztxA9uwg\nc9C35LhRM8d1AGG3z+j5xm8ulEBzb/9cc3BMKtXmnklPSy7IPhu1VMHJFxRdTtjh\n5MV9BLsSJq2B+aQWvPiFyFtL6gjIBg+24bWmhKi7nmdqIZnorleCpu66mOEcrHkc\nrJqhn/egzjWA/3hVob665PDb/ZaFHI5ya+1iDP9Y0LhSjNpEpDhjZD+RDkaJ/fFY\nJSx4l41EuP56VSiHv1GqeZDSjd0qkKNgH5IGcoJWXWFPxfRDKHCD6oUwV10QKyhR\nkwpKa/8laR8zxaNN3JG43y6FDQiEBB2X/0FnPjVpuKqwtPFqkd1ywQCyT1KQ6fOF\nfFE5a36xAgMBAAECggEAThr0xAkd5/ReyAssnr4WccYJiQuFoMprADu13z9ZrDK7\nqTFrVmil632KqfRzHmmrgsgqeJagpU3CPBPKl4S2kJGEuoq737L8BkMkrO5WhVrw\ng4Bi6VJiIOWHycb+lriqN/lfeE9Vs2eeaW72VbuNiGMMJgsvfQT7rDLKheaBFhnc\nOlh1xhiANzqUnqP7V809VeuS0fFJxKE39wN0VHG9yaXD7NRxki0UqfJI9cZkvM3y\n/GSkYA+HZ4/L1pYNeigf/90dDaTFvHlbhmnrvadnrgFlJgI1aSLBT7TT3tyUV+IJ\n9QJJZ3uUecetLIOX6MtU6cVhvA7HhhUPndDOoIwkWQKBgQDflo/RQPfmCS2feBYi\nU05MjtM95LWwLrT8R1YIbpeNryME3D6WBYaUQyc3Z8XT2fpBtBET/dohvBqH4Ado\ncIjvm+zn+EDxfzAFTAz+i5pa2a8GVVBtxbyanRJ0ZqVHgSOAmNUietSi9DHpVRwK\nvHu88v2GxsBZA5/T8AsXeFAWwwKBgQDW2uo0bkeWIdTgMef5nrS3YHxtkOdaOB69\nF5v2Qr158yNj2TWTephTef0WulCP+ecJc4aXqpjyCe36d7QlrRGQyRXWVAS+tFU2\nbn0vZJ6ml1vX+AwHdVDplw8ek7/PYm4tBo649/cdZgCeOBi4A9CWgzuzasGGirZt\nadrlFxpFewKBgQCSPjafVfFPgx1WOwOvO/Hw3VKKHzg/nq0+faJmLX/vamhrW2uM\nUNzvyOSztqqMoPyxUQgCnX25pwFrcjsmMsU+hCx2pchErT5JmK6/J6y0U8HJULAk\nvLtaHfbeL+1XUb5Y9J4jyVefpj2nMsX+t73vnrf5GbLiBh7aTx3SIh2wZQKBgE5h\nJjdiU7MtPF9dVWb2wq5zAHFn/z4mYvBQgJDh4AVw8WQnhSf7/T3WrsFvzpv3apVE\nE8GYdps1jB9nM8zayiGrec/qbqCzYLKus/RqHIZhiRvMXXcLES1l8hoRhFO/cLn0\nPnSz4O5Um70cccgPfDSsQ0c8lsTiLZLUnwob13WpAoGBANUlU1YKe1ecfgILQu7a\nBBye6XqCSTtEfXSY8MroYszFtoX2WDDog4yj9s9BdVz0f68IcYkPgJOhFf2Akjx1\nwv1SJgEeqouj8ZqnahtUxYM3RH80KwY5vppEXFUfx70E0XpdvSMw3lLlWSbgq1PS\nHBi9X600iJ+7Q4POnn7wN2t9\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlops-project-1@white-byway-467013-f8.iam.gserviceaccount.com",
+  "client_id": "111470421486339518035",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlops-project-1%40white-byway-467013-f8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
